@@ -1,10 +1,10 @@
 # Desafio-01-Conceitos-Node
 Esse e o Primeiro Desafio Do Modulo 01 de Node.js Do BootCamp GoStack Da Rocketseat
 
-Primeiro para inicializar precisamos digitar no seu terminal yarn start ou npm start,
+Primeiro para inicializar precisamos digitar no seu terminal yarn ou yarn install ou npm install se voce usar o npm,
 para instalar todas as dependecias nescessarias para iniciar o projeto
 
-Depois de instalar,vamo novamente para o terminal,
+Depois de instalar,vamos novamente para o terminal,
 e digitar yarn dev para iniciar, o nosso servidor
 
 Agora vamos precisar do Insomnia ou algo similar,
